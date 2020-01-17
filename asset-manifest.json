@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2fe34896.chunk.css",
+    "main.css": "/portfolio/static/css/main.80aa31be.chunk.css",
     "main.js": "/portfolio/static/js/main.5cb0d97e.chunk.js",
     "main.js.map": "/portfolio/static/js/main.5cb0d97e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.e92c632a.js",
@@ -8,15 +8,15 @@
     "static/js/2.413a256a.chunk.js": "/portfolio/static/js/2.413a256a.chunk.js",
     "static/js/2.413a256a.chunk.js.map": "/portfolio/static/js/2.413a256a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9779eff25e7cdc1da41957c765a68ccd.js": "/portfolio/precache-manifest.9779eff25e7cdc1da41957c765a68ccd.js",
+    "precache-manifest.fb5ec18bc54e8505c7237652da2fc9de.js": "/portfolio/precache-manifest.fb5ec18bc54e8505c7237652da2fc9de.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.2fe34896.chunk.css.map": "/portfolio/static/css/main.2fe34896.chunk.css.map",
+    "static/css/main.80aa31be.chunk.css.map": "/portfolio/static/css/main.80aa31be.chunk.css.map",
     "static/media/App.css": "/portfolio/static/media/blogging-coding-copywriting-34580.ad7c82b6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e92c632a.js",
     "static/js/2.413a256a.chunk.js",
-    "static/css/main.2fe34896.chunk.css",
+    "static/css/main.80aa31be.chunk.css",
     "static/js/main.5cb0d97e.chunk.js"
   ]
 }
