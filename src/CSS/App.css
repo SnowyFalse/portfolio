@@ -45,11 +45,27 @@ h3 {
 
 }
 
-.contact {
+.skills {
   color: #330001;
   width: 100%;
-  height: 400px;
+  height: 600px;
   background: #d3d3d3;
   margin-top: 20px;
   padding: 20px;
 }
+
+.time {
+  color: #46080a;
+  width: 100%;
+  height: 350px;
+  background-color: #f3f3f3;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.bottom {
+  position:absolute;
+  bottom:0;
+  margin-bottom: 100px;
+}
+

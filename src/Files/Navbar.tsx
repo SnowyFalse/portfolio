@@ -35,13 +35,19 @@ export class Navbar extends React.Component<{}, State> {
                         <div className="collapse navbar-collapse" id="navbarNav">
                             <ul className="navbar-nav">
                                 <li className="nav-item active">
-                                    <a href={"#top"} className="nav-link ">Home </a>
+                                    <a href={"#top"} className="nav-link "><i className="fas fa-home"></i> </a>
                                 </li>
                                 <li className="nav-item active" >
                                     <a href={"#info"} className="nav-link ">About me </a>
                                 </li>
                                 <li className="nav-item active">
-                                    <a href={"#contact"} className="nav-link ">Contact me </a>
+                                    <a href={"#skills"} className="nav-link ">Skills </a>
+                                </li>
+                                <li className="nav-item active">
+                                    <a href={"#time"} className="nav-link ">Education und Work </a>
+                                </li>
+                                <li className="nav-item active">
+                                    <a href={"mailto:theresa.dietinger@gmail.com"} className="nav-link ">Contact me </a>
                                 </li>
                             </ul>
                         </div>

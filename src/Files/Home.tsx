@@ -1,7 +1,8 @@
 import React from 'react';
 import '../CSS/App.css';
 import AboutMe from "./AboutMe";
-import ContactMe from "./ContactMe";
+import Skills from "./Skills";
+import Timespan from "./Timespan";
 
 interface Props {
 
@@ -28,14 +29,19 @@ interface Props {
                    <div className={"App-header"}>
                        <h1> Theresa Dietinger </h1>
                        <h3> Software Development </h3>
+                   <div  id={"info"} className={"bottom"}/>
                    </div>
                </div>
-                <div className={"info"} id={"info"}>
+                <div className={"info"}>
                     <AboutMe/>
                 </div>
-                <div className={"contact"} id={"contact"}>
-                    <ContactMe/>
+                <div className={"skills"} >
+                    <Skills/>
                 </div>
+                <div className={"time"} >
+                    <Timespan/>
+                </div>
+
 
             </div>
         );
